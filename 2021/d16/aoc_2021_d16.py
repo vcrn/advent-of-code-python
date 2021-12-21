@@ -1,9 +1,4 @@
-"""
-Solution to Advent of Code 2021, Day 16.
-No docstrings since it seemed redundant.
-Possible to simplify parse_operator_packet() and putting the remaining code in read_packet(), but at the cost of
-readability.
-"""
+"""Solution to Advent of Code 2021, Day 16."""
 
 from operator import mul
 import functools
